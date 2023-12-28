@@ -1,11 +1,11 @@
-header{
+#header{
     margin: 10px;
     border: 1px solid #E36414;
     padding: 5px;
     color: #E36414;
   }
   
-  main{
+  #main{
     margin: 10px;
     border: 1px solid #0F4C5C;
     padding: 5px;
@@ -13,7 +13,7 @@ header{
     display: flex;
   }
   
-  section{
+  #section{
     margin: 10px;
     border: 1px solid #FB8B24;
     padding: 5px;
@@ -21,7 +21,7 @@ header{
     width: 75%;
   }
   
-  article{
+  #article{
     margin: 10px;
     border: 1px solid #FB8B24;
     padding: 5px;
@@ -29,7 +29,7 @@ header{
     color:#498467;
   }
   
-  aside{
+  #aside{
     margin: 10px;
     border: 1px solid #9A031E;
     padding: 5px;
@@ -37,7 +37,7 @@ header{
     width: 20%;
   }
   
-  footer{
+  #footer{
     margin: 10px;
     border: 1px solid #98CE00;
     padding: 5px;
