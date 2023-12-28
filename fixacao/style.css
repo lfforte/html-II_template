@@ -4,14 +4,14 @@
     font-family: Helvetica, sans-serif;
 }
 
-.um, header{
+.um, #header{
     background-color: #f26419;
     height: 50px;
     padding-left: 10px;
     padding-top: 10px;
 }
 
-.dois, main{
+.dois, #main{
    background-color: #f6ae2d;
    display: flex;
    flex-direction: row;
@@ -20,17 +20,17 @@
    color: wheat;
 }
 
-.tres, section{
+.tres, #section{
     background-color: #2F4858;
     width: 80vw;
     padding: 20px;
 }
 
-img, video{
+#img, #video{
     height: 90%;
 }
 
-.quatro, article{
+.quatro, #article{
     background-color: #86bbd8;
     padding: 20px;
     height: 180px;
@@ -39,22 +39,22 @@ img, video{
 
 }
 
-.cinco, aside{
+.cinco, #aside{
     background-color: #33658a;
     width: 15vw;
     padding-left: 20px;
     padding-top: 20px;
 }
 
-.seis, footer{
+.seis, #footer{
     background-color: #B8D8D8;
     height: 50px;
     padding: 20px 0 0 20px;
 }
 
-input{
+#input{
     width: 100%;
 }
-textarea{
+#textarea{
     width: 100%;
 }
